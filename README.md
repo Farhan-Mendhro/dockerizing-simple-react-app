@@ -16,7 +16,7 @@ docker pull farhan249/simple-react-app
 docker run -p 80:80 farhan249/simple-react-app
 ```
 
-Open http://localhost:300
+Open http://localhost:80
 
 ## What I Learned
 - Writing Dockerfiles
